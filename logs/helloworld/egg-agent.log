@@ -1,0 +1,127 @@
+2017-07-14 13:20:13,066 INFO 9840 [egg:logger] init all loggers with options: {"dir":"/Users/Amir/Documents/projects/examples-master/helloworld/logs/helloworld","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"helloworld-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-14 13:20:13,179 INFO 9840 [egg-watcher:agent] watcher start success
+2017-07-14 13:24:33,551 WARN 9840 [agent:development] reload worker because /Users/Amir/Documents/projects/examples-master/helloworld/app/controller/foo.js change
+2017-07-14 13:24:34,238 WARN 9840 [agent:development] reload worker because /Users/Amir/Documents/projects/examples-master/helloworld/app/controller/foo.js change
+2017-07-14 13:24:41,411 WARN 9840 [agent:development] reload worker because /Users/Amir/Documents/projects/examples-master/helloworld/app/router.js change
+2017-07-14 13:25:24,549 WARN 9840 [agent:development] reload worker because /Users/Amir/Documents/projects/examples-master/helloworld/app/router.js change
+2017-07-14 13:25:40,379 INFO 9914 [egg:logger] init all loggers with options: {"dir":"/Users/Amir/Documents/projects/examples-master/helloworld/logs/helloworld","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"helloworld-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-14 13:25:40,494 INFO 9914 [egg-watcher:agent] watcher start success
+2017-07-14 13:28:35,199 INFO 9972 [egg:logger] init all loggers with options: {"dir":"/Users/Amir/Documents/projects/examples-master/helloworld/logs/helloworld","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"helloworld-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-14 13:28:35,320 INFO 9972 [egg-watcher:agent] watcher start success
+2017-07-14 13:30:32,095 WARN 9972 [agent:development] reload worker because /Users/Amir/Documents/projects/examples-master/helloworld/app/controller/foo.js change
+2017-07-14 13:30:33,477 WARN 9972 [agent:development] reload worker because /Users/Amir/Documents/projects/examples-master/helloworld/app/controller/foo.js change
+2017-07-14 13:32:42,572 WARN 9972 [agent:development] reload worker because /Users/Amir/Documents/projects/examples-master/helloworld/app/controller/foo.js change
+2017-07-14 13:33:37,239 WARN 9972 [agent:development] reload worker because /Users/Amir/Documents/projects/examples-master/helloworld/app/router.js change
+2017-07-14 13:34:08,089 WARN 9972 [agent:development] reload worker because /Users/Amir/Documents/projects/examples-master/helloworld/app/router.js change
+2017-07-14 13:35:22,052 WARN 9972 [agent:development] reload worker because /Users/Amir/Documents/projects/examples-master/helloworld/app/controller/foo.js change
+2017-07-14 13:35:23,704 WARN 9972 [agent:development] reload worker because /Users/Amir/Documents/projects/examples-master/helloworld/app/controller/foo.js change
+2017-07-14 13:54:12,362 INFO 10348 [egg:logger] init all loggers with options: {"dir":"/Users/Amir/Documents/projects/examples-master/helloworld/logs/helloworld","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"helloworld-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-14 13:54:12,490 INFO 10348 [egg-watcher:agent] watcher start success
+2017-07-14 14:15:43,457 INFO 10787 [egg:logger] init all loggers with options: {"dir":"/Users/Amir/Documents/projects/eggProject/backEnd/logs/helloworld","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"helloworld-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-14 14:15:43,576 INFO 10787 [egg-watcher:agent] watcher start success
+2017-07-14 14:22:25,653 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/router.js change
+2017-07-14 14:27:58,019 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.default.js change
+2017-07-14 14:28:00,623 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.default.js change
+2017-07-14 14:28:21,133 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.default.js change
+2017-07-14 14:28:22,883 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.default.js change
+2017-07-14 14:28:23,621 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.default.js change
+2017-07-14 14:29:11,356 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js rename
+2017-07-14 14:29:16,776 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js rename
+2017-07-14 14:29:38,171 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-14 14:29:58,088 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-14 14:33:56,988 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-14 14:35:28,660 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-14 14:35:35,256 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-14 14:36:30,997 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/foo.js change
+2017-07-14 14:36:31,591 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/foo.js change
+2017-07-14 14:37:40,723 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-14 14:37:49,083 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-14 14:37:52,190 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-14 14:39:27,368 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-14 14:40:04,373 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-14 14:42:04,298 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/foo.js change
+2017-07-14 14:43:44,000 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/foo.js change
+2017-07-14 14:43:46,281 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/foo.js change
+2017-07-14 14:46:07,397 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/foo.js change
+2017-07-14 14:46:12,311 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/foo.js change
+2017-07-14 14:46:18,689 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/foo.js change
+2017-07-14 14:48:50,849 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-14 14:48:58,100 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-14 14:49:15,863 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-14 14:52:09,366 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-14 14:56:45,434 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-14 14:59:05,530 WARN 10787 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/foo.js change
+2017-07-14 15:02:24,011 INFO 11832 [egg:logger] init all loggers with options: {"dir":"/Users/Amir/Documents/projects/eggProject/backEnd/logs/helloworld","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"helloworld-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-14 15:02:24,151 INFO 11832 [egg-watcher:agent] watcher start success
+2017-07-14 15:04:49,260 WARN 11832 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.default.js change
+2017-07-14 15:05:18,083 WARN 11832 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/foo.js change
+2017-07-14 15:08:29,470 WARN 11832 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/plugin.js rename
+2017-07-14 15:08:33,708 WARN 11832 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/plugin.js rename
+2017-07-14 15:08:43,219 INFO 12086 [egg:logger] init all loggers with options: {"dir":"/Users/Amir/Documents/projects/eggProject/backEnd/logs/helloworld","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"helloworld-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-14 15:08:43,325 INFO 12086 [egg-watcher:agent] watcher start success
+2017-07-14 15:09:28,295 WARN 12086 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/foo.js change
+2017-07-14 15:09:30,733 WARN 12086 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/foo.js change
+2017-07-14 15:11:05,741 WARN 12086 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.default.js change
+2017-07-14 15:11:11,176 WARN 12086 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.default.js change
+2017-07-14 15:11:40,699 WARN 12086 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/plugin.js change
+2017-07-14 15:11:46,310 INFO 12168 [egg:logger] init all loggers with options: {"dir":"/Users/Amir/Documents/projects/eggProject/backEnd/logs/helloworld","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"helloworld-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-14 15:11:46,437 INFO 12168 [egg-watcher:agent] watcher start success
+2017-07-14 15:11:58,236 WARN 12168 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-14 15:12:05,820 WARN 12168 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-14 15:12:09,642 WARN 12168 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.default.js change
+2017-07-14 15:13:19,410 WARN 12168 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/foo.js change
+2017-07-14 15:13:34,163 WARN 12168 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/foo.js change
+2017-07-14 15:13:49,676 INFO 12230 [egg:logger] init all loggers with options: {"dir":"/Users/Amir/Documents/projects/eggProject/backEnd/logs/helloworld","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"helloworld-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-14 15:13:49,790 INFO 12230 [egg-watcher:agent] watcher start success
+2017-07-14 15:15:09,311 WARN 12230 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/foo.js change
+2017-07-14 15:15:40,654 WARN 12230 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/foo.js change
+2017-07-14 15:17:55,332 WARN 12230 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/basejs rename
+2017-07-14 15:18:02,001 WARN 12230 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/base.js rename
+2017-07-14 15:18:19,883 WARN 12230 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/base.js rename
+2017-07-14 15:18:23,417 WARN 12230 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/base.js rename
+2017-07-14 15:18:30,445 WARN 12230 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/base.js rename
+2017-07-14 15:21:33,264 WARN 12230 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/base.js change
+2017-07-14 15:23:50,036 WARN 12230 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/base.js change
+2017-07-14 15:24:38,460 WARN 12230 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/plugin.js change
+2017-07-14 15:25:09,632 INFO 12540 [egg:logger] init all loggers with options: {"dir":"/Users/Amir/Documents/projects/eggProject/backEnd/logs/helloworld","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"helloworld-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-14 15:25:09,779 INFO 12540 [egg-watcher:agent] watcher start success
+2017-07-14 15:33:27,122 WARN 12540 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-14 15:56:36,882 WARN 12540 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/base.js change
+2017-07-14 15:56:38,910 WARN 12540 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/base.js change
+2017-07-14 15:56:40,626 WARN 12540 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/base.js change
+2017-07-14 16:54:59,333 WARN 12540 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-14 16:55:04,674 WARN 12540 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-14 16:55:06,039 WARN 12540 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-14 16:56:46,174 WARN 12540 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/base.js change
+2017-07-14 16:57:12,039 WARN 12540 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/base.js change
+2017-07-14 16:57:20,634 WARN 12540 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/base.js change
+2017-07-14 16:57:46,752 WARN 12540 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/base.js change
+2017-07-14 16:57:47,328 WARN 12540 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/base.js change
+2017-07-14 16:58:39,367 WARN 12540 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/base.js change
+2017-07-14 16:58:40,383 WARN 12540 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/controller/base.js change
+2017-07-14 16:59:06,420 WARN 12540 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/plugin.js change
+2017-07-14 17:00:10,970 WARN 12540 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/app/router.js change
+2017-07-20 12:26:28,872 INFO 3715 [egg:logger] init all loggers with options: {"dir":"/Users/Amir/Documents/projects/eggProject/backEnd/logs/helloworld","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"helloworld-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-20 12:26:29,109 INFO 3715 [egg-watcher:agent] watcher start success
+2017-07-20 12:28:23,917 WARN 3715 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-20 12:30:21,783 WARN 3715 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.default.js change
+2017-07-20 12:30:32,582 INFO 34412 [egg:logger] init all loggers with options: {"dir":"/Users/Amir/Documents/projects/eggProject/backEnd/logs/helloworld","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"helloworld-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-20 12:30:32,845 INFO 34412 [egg-watcher:agent] watcher start success
+2017-07-20 12:30:42,652 WARN 34412 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.default.js change
+2017-07-20 12:30:46,600 WARN 34412 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-20 12:30:55,182 INFO 37081 [egg:logger] init all loggers with options: {"dir":"/Users/Amir/Documents/projects/eggProject/backEnd/logs/helloworld","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"helloworld-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-20 12:30:55,450 INFO 37081 [egg-watcher:agent] watcher start success
+2017-07-20 12:31:31,019 WARN 37081 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.default.js change
+2017-07-20 12:31:40,070 WARN 37081 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.default.js change
+2017-07-20 12:31:43,052 WARN 37081 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.default.js change
+2017-07-20 12:31:46,027 WARN 37081 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-20 12:31:47,783 WARN 37081 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-20 12:31:50,356 WARN 37081 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-20 12:31:58,265 WARN 37081 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-20 12:32:05,983 WARN 37081 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-20 12:32:13,703 WARN 37081 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-20 12:32:23,330 WARN 37081 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.default.js change
+2017-07-20 12:32:28,839 WARN 37081 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change
+2017-07-20 12:32:34,621 INFO 50006 [egg:logger] init all loggers with options: {"dir":"/Users/Amir/Documents/projects/eggProject/backEnd/logs/helloworld","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"helloworld-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-20 12:32:34,834 INFO 50006 [egg-watcher:agent] watcher start success
+2017-07-20 12:37:43,607 WARN 50006 [agent:development] reload worker because /Users/Amir/Documents/projects/eggProject/backEnd/config/config.prod.js change

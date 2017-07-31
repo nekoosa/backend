@@ -1,0 +1,159 @@
+2017-07-14 16:35:38,590 ERROR 12540 nodejs.ClusterClientNoResponseError: client no response in 1215492ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _repeat] (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/cluster-client/lib/leader.js:72:23)
+    at Timeout.wrapper [as _onTimeout] (timers.js:425:11)
+    at tryOnTimeout (timers.js:232:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+name: 'ClusterClientNoResponseError'
+pid: 12540
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 16:35:38,593 ERROR 12540 nodejs.ClusterClientNoResponseError: client no response in 1215455ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _repeat] (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/cluster-client/lib/leader.js:72:23)
+    at Timeout.wrapper [as _onTimeout] (timers.js:425:11)
+    at tryOnTimeout (timers.js:232:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+name: 'ClusterClientNoResponseError'
+pid: 12540
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 16:35:38,717 ERROR 12540 nodejs.ClusterClientNoResponseError: client no response in 1215455ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _repeat] (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/cluster-client/lib/leader.js:72:23)
+    at Timeout.wrapper [as _onTimeout] (timers.js:425:11)
+    at tryOnTimeout (timers.js:232:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+name: 'ClusterClientNoResponseError'
+pid: 12540
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 16:35:38,718 ERROR 12540 nodejs.ClusterClientNoResponseError: client no response in 1215455ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _repeat] (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/cluster-client/lib/leader.js:72:23)
+    at Timeout.wrapper [as _onTimeout] (timers.js:425:11)
+    at tryOnTimeout (timers.js:232:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+name: 'ClusterClientNoResponseError'
+pid: 12540
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 17:00:19,674 ERROR 16415 [-/192.168.1.59/-/8ms GET /login] nodejs.TypeError: app.mysql.insert is not a function
+    at BaseController.login (/Users/Amir/Documents/projects/eggProject/backEnd/app/controller/base.js:6:38)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+headers: { 'Access-Control-Allow-Origin': 'http://localhost:3002' }
+pid: 16415
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 19:40:48,768 ERROR 12540 nodejs.ClusterClientNoResponseError: client no response in 4400976ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _repeat] (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/cluster-client/lib/leader.js:72:23)
+    at Timeout.wrapper [as _onTimeout] (timers.js:425:11)
+    at tryOnTimeout (timers.js:232:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+name: 'ClusterClientNoResponseError'
+pid: 12540
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 19:40:48,770 ERROR 12540 nodejs.ClusterClientNoResponseError: client no response in 4400976ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _repeat] (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/cluster-client/lib/leader.js:72:23)
+    at Timeout.wrapper [as _onTimeout] (timers.js:425:11)
+    at tryOnTimeout (timers.js:232:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+name: 'ClusterClientNoResponseError'
+pid: 12540
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 19:40:48,776 ERROR 12540 nodejs.ClusterClientNoResponseError: client no response in 4400977ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _repeat] (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/cluster-client/lib/leader.js:72:23)
+    at Timeout.wrapper [as _onTimeout] (timers.js:425:11)
+    at tryOnTimeout (timers.js:232:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+name: 'ClusterClientNoResponseError'
+pid: 12540
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 19:40:48,784 ERROR 12540 nodejs.ClusterClientNoResponseError: client no response in 4400977ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _repeat] (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/cluster-client/lib/leader.js:72:23)
+    at Timeout.wrapper [as _onTimeout] (timers.js:425:11)
+    at tryOnTimeout (timers.js:232:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+name: 'ClusterClientNoResponseError'
+pid: 12540
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 23:01:29,023 ERROR 12540 nodejs.ClusterClientNoResponseError: client no response in 10819916ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _repeat] (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/cluster-client/lib/leader.js:72:23)
+    at Timeout.wrapper [as _onTimeout] (timers.js:425:11)
+    at tryOnTimeout (timers.js:232:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+name: 'ClusterClientNoResponseError'
+pid: 12540
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 23:01:29,024 ERROR 12540 nodejs.ClusterClientNoResponseError: client no response in 10819916ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _repeat] (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/cluster-client/lib/leader.js:72:23)
+    at Timeout.wrapper [as _onTimeout] (timers.js:425:11)
+    at tryOnTimeout (timers.js:232:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+name: 'ClusterClientNoResponseError'
+pid: 12540
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 23:01:29,024 ERROR 12540 nodejs.ClusterClientNoResponseError: client no response in 10819916ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _repeat] (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/cluster-client/lib/leader.js:72:23)
+    at Timeout.wrapper [as _onTimeout] (timers.js:425:11)
+    at tryOnTimeout (timers.js:232:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+name: 'ClusterClientNoResponseError'
+pid: 12540
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 23:01:29,024 ERROR 12540 nodejs.ClusterClientNoResponseError: client no response in 10819915ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _repeat] (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/cluster-client/lib/leader.js:72:23)
+    at Timeout.wrapper [as _onTimeout] (timers.js:425:11)
+    at tryOnTimeout (timers.js:232:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+name: 'ClusterClientNoResponseError'
+pid: 12540
+hostname: AmirdeMacBook-Air.local
+
+2017-07-15 09:27:07,256 ERROR 12540 nodejs.ClusterClientNoResponseError: client no response in 37537376ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _repeat] (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/cluster-client/lib/leader.js:72:23)
+    at Timeout.wrapper [as _onTimeout] (timers.js:425:11)
+    at tryOnTimeout (timers.js:232:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+name: 'ClusterClientNoResponseError'
+pid: 12540
+hostname: AmirdeMacBook-Air.local
+
+2017-07-15 09:27:07,279 ERROR 12540 nodejs.ClusterClientNoResponseError: client no response in 37537376ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _repeat] (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/cluster-client/lib/leader.js:72:23)
+    at Timeout.wrapper [as _onTimeout] (timers.js:425:11)
+    at tryOnTimeout (timers.js:232:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+name: 'ClusterClientNoResponseError'
+pid: 12540
+hostname: AmirdeMacBook-Air.local
+
+2017-07-15 09:27:07,281 ERROR 12540 nodejs.ClusterClientNoResponseError: client no response in 37537376ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _repeat] (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/cluster-client/lib/leader.js:72:23)
+    at Timeout.wrapper [as _onTimeout] (timers.js:425:11)
+    at tryOnTimeout (timers.js:232:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+name: 'ClusterClientNoResponseError'
+pid: 12540
+hostname: AmirdeMacBook-Air.local
+
+2017-07-15 09:27:07,281 ERROR 12540 nodejs.ClusterClientNoResponseError: client no response in 37537375ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _repeat] (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/cluster-client/lib/leader.js:72:23)
+    at Timeout.wrapper [as _onTimeout] (timers.js:425:11)
+    at tryOnTimeout (timers.js:232:11)
+    at Timer.listOnTimeout (timers.js:202:5)
+name: 'ClusterClientNoResponseError'
+pid: 12540
+hostname: AmirdeMacBook-Air.local
+

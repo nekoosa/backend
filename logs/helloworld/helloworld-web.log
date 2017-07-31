@@ -1,0 +1,435 @@
+2017-07-14 14:20:49,867 WARN 10788 [-/192.168.1.59/-/21ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 10788
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 14:21:13,775 WARN 10788 [-/192.168.1.59/-/4ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 10788
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 14:22:29,717 WARN 10902 [-/192.168.1.59/-/16ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 10902
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 14:23:32,246 WARN 10902 [-/192.168.1.59/-/5ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 10902
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 14:24:33,398 WARN 10902 [-/192.168.1.59/-/4ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 10902
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 14:28:29,536 WARN 10988 [-/192.168.1.59/-/20ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 10988
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 14:30:03,862 WARN 10988 [-/192.168.1.59/-/12ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 10988
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 14:34:03,380 WARN 11155 [-/192.168.1.59/-/17ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 11155
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 14:35:26,776 WARN 11155 [-/192.168.1.59/-/4ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 11155
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 14:36:42,738 WARN 11226 [-/192.168.1.59/-/15ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 11226
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 14:37:57,390 WARN 11226 [-/192.168.1.59/-/8ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 11226
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 14:38:02,447 WARN 11226 [-/192.168.1.59/-/2ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 11226
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 14:40:10,159 WARN 11360 [-/192.168.1.59/-/16ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 11360
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 14:43:51,434 WARN 11461 [-/192.168.1.59/-/17ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 11461
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 14:46:24,156 WARN 11508 [-/192.168.1.59/-/19ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 11508
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 14:49:59,406 WARN 11556 [-/192.168.1.59/-/15ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 11556
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 14:52:14,517 WARN 11687 [-/192.168.1.59/-/19ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 11687
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 14:52:55,650 WARN 11687 [-/192.168.1.59/-/3ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 11687
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 14:53:08,517 WARN 11687 [-/192.168.1.59/-/5ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 11687
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 14:53:36,374 WARN 11687 [-/192.168.1.59/-/3ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 11687
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 14:54:09,394 WARN 11687 [-/192.168.1.59/-/2ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 11687
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 14:56:49,036 WARN 11754 [-/192.168.1.59/-/15ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 11754
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 15:00:19,364 WARN 11789 [-/192.168.1.59/-/15ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 11789
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 15:00:39,078 WARN 11789 [-/192.168.1.59/-/3ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:69:7)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+message: 'Method Not Allowed'
+pid: 11789
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 15:04:54,702 WARN 11859 [-/192.168.1.59/-/17ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at Object.<anonymous> (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa-compose/index.js:28:19)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+message: 'Method Not Allowed'
+pid: 11859
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 15:05:22,853 WARN 11870 [-/192.168.1.59/-/17ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at Object.<anonymous> (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa-compose/index.js:28:19)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+message: 'Method Not Allowed'
+pid: 11870
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 15:09:06,495 WARN 12087 [-/192.168.1.59/-/11ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at Object.<anonymous> (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa-compose/index.js:28:19)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+message: 'Method Not Allowed'
+pid: 12087
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 15:09:35,240 WARN 12105 [-/192.168.1.59/-/10ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at Object.<anonymous> (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa-compose/index.js:28:19)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+message: 'Method Not Allowed'
+pid: 12105
+hostname: AmirdeMacBook-Air.local
+
+2017-07-14 15:11:17,198 WARN 12105 [-/192.168.1.59/-/11ms OPTIONS /foo/1/app/3] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.module.exports.throw (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa/lib/context.js:89:23)
+    at Object.notAllow (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/egg-security/lib/middlewares/methodnoallow.js:18:17)
+    at next (native)
+    at Object.<anonymous> (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/koa-compose/index.js:28:19)
+    at next (native)
+    at onFulfilled (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:65:19)
+    at /Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:54:5
+    at Object.co (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:118:63)
+    at next (/Users/Amir/Documents/projects/eggProject/backEnd/node_modules/co/index.js:99:29)
+message: 'Method Not Allowed'
+pid: 12105
+hostname: AmirdeMacBook-Air.local
+
